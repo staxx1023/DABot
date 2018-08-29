@@ -1,0 +1,42 @@
+
+ ERROR: Error: EISDIR: illegal operation on a directory, read
+ ERROR: Error: EISDIR: illegal operation on a directory, read
+ ERROR: Error: EISDIR: illegal operation on a directory, read
+ ERROR: Error: EISDIR: illegal operation on a directory, read
+ ERROR: Error: EISDIR: illegal operation on a directory, read
+ ERROR: ReferenceError: args is not defined
+ ERROR: ReferenceError: args is not defined
+ ERROR: ReferenceError: args is not defined
+ ERROR: ReferenceError: args is not defined
+ ERROR: ReferenceError: args is not defined
+ ERROR: TypeError: path must be a string or Buffer
+ ERROR: Error: ENOENT: no such file or directory, open 'c:\Users\welsa\Documents\discord.js\elos\201934129808277504'
+ ERROR: Error: ENOENT: no such file or directory, open 'c:\Users\welsa\Documents\discord.js\elos\201934129808277504'
+ ERROR: TypeError: Expected options to be either an object or a string, but got number instead
+ ERROR: Error: Unknown encoding: 925
+ ERROR: Error: Unknown encoding: 925
+ ERROR: Error: Unknown encoding: 925
+ ERROR: TypeError: "size" argument must be a number
+ ERROR: TypeError: Cannot read property 'elo' of undefined
+ ERROR: TypeError: message.content.startsWithIgnoreCase is not a function
+ ERROR: TypeError: message.content.startsWithIgnoreCase is not a function
+ ERROR: TypeError: message.content.startsWithIgnoreCase is not a function
+ ERROR: TypeError: message.content.startsWithIgnoreCase is not a function
+ ERROR: TypeError: message.content.startsWithIgnoreCase is not a function
+ ERROR: TypeError: message.content.startsWithIgnoreCase is not a function
+ ERROR: TypeError: message.content.startsWithIgnoreCase is not a function
+ ERROR: TypeError: message.content.startsWithIgnoreCase is not a function
+ ERROR: TypeError: message.content.startsWithIgnoreCase is not a function
+ ERROR: TypeError: message.content.startsWithIgnoreCase is not a function
+ ERROR: TypeError: message.content.startsWithIgnoreCase is not a function
+ ERROR: TypeError: message.content.startsWithIgnoreCase is not a function
+ ERROR: TypeError: message.content.startsWithIgnoreCase is not a function
+ ERROR: TypeError: message.content.startsWithIgnoreCase is not a function
+ ERROR: TypeError: message.content.startsWithIgnoreCase is not a function
+ ERROR: TypeError: message.content.startsWithIgnoreCase is not a function
+ ERROR: ReferenceError: chips is not defined
+ ERROR: TypeError: Cannot read property 'username' of undefined
+ ERROR: TypeError: Cannot read property 'username' of undefined
+ ERROR: TypeError: Cannot read property 'length' of undefined
+ ERROR: TypeError: Cannot read property 'username' of undefined
+ ERROR: ReferenceError: loserStarChips is not defined
